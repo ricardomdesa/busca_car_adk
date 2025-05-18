@@ -1,9 +1,13 @@
 # BuscaCar
 
-BuscaCar é um AI-powered agent que usa o [google-adk](https://pypi.org/project/google-adk/) library to search and suggest used car ads.
+O BuscaCar é um sistema inteligente desenvolvido com o poder do Gemini, em python e com Google ADK que utiliza agentes para encontrar o veículo usado ideal para você. Ele processa seus requisitos, pesquisa anúncios online e apresenta os resultados de forma organizada e com feedback sobre as opções encontradas.
+
+---
 
 Link colab, um jeito mais rapido de rodar: 
 https://colab.research.google.com/drive/1xQ49DvbNyKwO8CUwNpFv6wufYo4GHYRV?usp=sharing
+
+---
 
 ## Features
 
