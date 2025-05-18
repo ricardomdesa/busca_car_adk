@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "busca_car"
+version = "0.1.0"
+description = ""
+authors = ["Ricardo Sa <ricardo.mdesa@outlook.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+google-adk = "^0.5.0"
+python-dotenv = "^1.1.0"
+pydantic = "^2.11.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
